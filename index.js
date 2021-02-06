@@ -14,7 +14,6 @@ function theBeatlesPlay (musicians, instruments) {
      facts[i] + '!!!';
      i++
     } 
-    return facts;
   }
   
   
