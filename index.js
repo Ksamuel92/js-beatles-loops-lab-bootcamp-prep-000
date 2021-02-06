@@ -17,4 +17,9 @@ function theBeatlesPlay (musicians, instruments) {
     return array;
   }
   
-  
+  function iLoveTheBeatles (num) {
+    var newArray = [];
+    do {
+      newArray.push()
+    }
+  }
