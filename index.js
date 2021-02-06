@@ -12,5 +12,4 @@ function theBeatlesPlay (musicians, instruments) {
     while (i < facts.length) {
       return `${facts[i]}!!!`
     } 
-    
-  
+  }
